@@ -1,6 +1,6 @@
 # Gerador de citações
 
-Projeto desenvolvido utilizando React.
+Projeto desenvolvido utilizando React e API [https://github.com/lukePeavey/quotable]
 
 ## Test app
 

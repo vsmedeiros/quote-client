@@ -1,11 +1,11 @@
-# Getting Started with Create React App
+# Gerador de citações
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto desenvolvido utilizando React.
 
 ## Test app
 
 
-Runs the app.\
-Open [https://vsmedeiros.github.io/quote-client/] to view it in your browser.
+Teste o projeto acessando.\
+[https://vsmedeiros.github.io/quote-client/] .
 
 

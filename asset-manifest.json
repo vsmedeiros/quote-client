@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/quote-client/static/js/main.9c99fed0.js",
+    "main.js": "/quote-client/static/js/main.0594e3c1.js",
     "static/media/background-image.jpg": "/quote-client/static/media/background-image.0330c08df08ac8b383a8.jpg",
     "static/media/quote-frame.png": "/quote-client/static/media/quote-frame.884d8a12aa01f4f85213.png",
     "index.html": "/quote-client/index.html",
-    "main.9c99fed0.js.map": "/quote-client/static/js/main.9c99fed0.js.map"
+    "main.0594e3c1.js.map": "/quote-client/static/js/main.0594e3c1.js.map"
   },
   "entrypoints": [
-    "static/js/main.9c99fed0.js"
+    "static/js/main.0594e3c1.js"
   ]
 }
